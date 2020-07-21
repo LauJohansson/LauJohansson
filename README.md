@@ -1,11 +1,11 @@
 # Introduction
 
 ## Who am I
-
+A young danish student engineer. Interested in data science. Specializing in programming and deep learning.  
 
 ## Project overviews
 
-The repositories on my Github mainly contains deep learning projects. 
+The repositories on my Github mainly contain deep learning projects. 
 
 
 *	[Natural language processing - Friends Manuscript Generator (PyTorch)](https://github.com/LauJohansson/DeepLearning_NLP_Friends)
@@ -17,8 +17,8 @@ The repositories on my Github mainly contains deep learning projects.
 *	[Probalistic Graph Model (Linear Dynamical System) - Predicting Covid19 (NumPyro)](https://github.com/LauJohansson/Predict_Covid19_PGM_NumPyro)
 
 
-## Explorify data
-Me and some of my fellow student have made a webpage with data science content called [ExplorifyData](https://explorifydata.com/) - Check it out!
+## Explorifydata.com
+Me and some of my fellow students have made a webpage with data science content. Check it out at [Explorifydata.com](https://explorifydata.com/).
 
 ## Contact
 You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/lau-johansson/). 
