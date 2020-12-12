@@ -20,6 +20,8 @@ The repositories on my Github mainly contain deep learning projects.
 ## Explorifydata.com
 Me and some of my fellow students have made a webpage with data science content. Check it out at [Explorifydata.com](https://explorifydata.com/).
 
+Check out the repository contains materials used on our main website [here](https://github.com/LauJohansson/Explorifydata)
+
 ![](https://github.com/LauJohansson/LauJohansson/blob/master/explorify_gif.gif?raw=true)
 
 ## Contact
