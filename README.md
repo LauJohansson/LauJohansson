@@ -1,7 +1,7 @@
 # Introduction
 
 ## Who am I
-A young danish student engineer. Interested in data science. Specializing in programming and deep learning.  
+A danish student data-engineer. Interested in data science. Specializing in data analysis and deep learning.  
 
 ## Project overviews
 
