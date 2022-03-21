@@ -1,7 +1,9 @@
 # Introduction
 
 ## Who am I
-A danish student data-engineer. Interested in data science. Specializing in data analysis and deep learning.  
+A danish data engineer. Interested in data science. Specialized in data analysis and deep learning.  
+
+Currently working with Micrsoft Azure and Databricks. 
 
 ## Project overviews
 
