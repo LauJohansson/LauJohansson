@@ -3,7 +3,7 @@
 ## Who am I
 A danish data engineer. Interested in data science. Specialized in data analysis and deep learning.  
 
-Currently working with Micrsoft Azure and Databricks. 
+Currently working with Micrsoft Azure and Databricks. Contributing to open-source dataplatform python tools - [atc-dataplatform](https://github.com/atc-net/atc-dataplatform)
 
 ## Project overviews
 
