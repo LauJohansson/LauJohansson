@@ -26,6 +26,9 @@ Check out the repository contains materials used on our main website [here](http
 
 ![](https://github.com/LauJohansson/LauJohansson/blob/master/explorify_gif.gif?raw=true)
 
+### Migrating to https://laujohansson.github.io/
+We have decided to close down Explorifydata.com, and I will migrate the webpages to my own github page.
+
 ## Contact
 You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/lau-johansson/). 
 
