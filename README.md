@@ -30,17 +30,12 @@ The repositories on my Github mainly contain deep learning projects.
 *	[Probalistic Graph Model (Linear Dynamical System) - Predicting Covid19 (NumPyro)](https://github.com/LauJohansson/Predict_Covid19_PGM_NumPyro)
 
 
-## Explorifydata.com
-Me and some of my fellow students have made a webpage with data science content. Check it out at [Explorifydata.com](https://explorifydata.com/).
+## Data science projects at https://laujohansson.github.io/
+Me and some of my fellow students have made several data science projects.
+
+Check it out at [https://laujohansson.github.io/](https://laujohansson.github.io/).
 
 Check out the repository contains materials used on our main website [here](https://github.com/LauJohansson/Explorifydata)
-
-![](https://github.com/LauJohansson/LauJohansson/blob/master/explorify_gif.gif?raw=true)
-
-### Migrating to https://laujohansson.github.io/
-We have decided to close down Explorifydata.com, and I will migrate the webpages to my own github page.
-
-See [https://laujohansson.github.io/](https://laujohansson.github.io/)
 
 ## Contact
 You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/lau-johansson/). 
