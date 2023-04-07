@@ -9,7 +9,12 @@ Currently working with Microsoft Azure and Azure Databricks.
 
 Contributing to open-source dataplatform python tools - [atc-dataplatform](https://github.com/atc-net/atc-dataplatform) and [spetlr](https://github.com/spetlr-org/spetlr). 
 
-<img src="https://avatars.githubusercontent.com/u/127737339?s=200&v=4"  width="100" height="100">
+
+
+
+![](https://avatars.githubusercontent.com/u/127737339?s=200&v=4)    ![](https://avatars.githubusercontent.com/u/57902194?s=200&v=4)
+
+
 
 ## Project overviews
 
