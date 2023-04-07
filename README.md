@@ -14,6 +14,17 @@ Contributing to open-source dataplatform python tools - [atc-dataplatform](https
 
 ![](https://avatars.githubusercontent.com/u/127737339?s=200&v=4)    ![](https://avatars.githubusercontent.com/u/57902194?s=200&v=4)
 
+### Contribution examples
+
+#### Synapse publishing to multiple evironments (dev, test and prod) - [Publish to Synapse](https://github.com/atc-net/atc-snippets/tree/main/azure-cli/synapse/Publish)
+Publish your development workspace to test and production. This contributes with two (on that time) missing Synapse features:
+- Azure Pipeline YAML: Automatic pipeline for publishing development -> to test and prod. Find the pipeline template [here](https://github.com/atc-net/atc-snippets/blob/main/azure-cli/synapse/Publish/deploy.synapse.yml) and the pipeline [here](https://github.com/atc-net/atc-snippets/blob/main/azure-cli/synapse/Publish/deploy.synapse.yml).
+- Initialize-SynapseParameters.ps1: A script to parameterize the Synapse paramters. Either by using individual environment specific .json files or string-replacements. Find the script [here](https://github.com/atc-net/atc-snippets/blob/main/azure-cli/synapse/Publish/Initialize-SynapseParameters.ps1).
+
+
+
+
+
 
 
 ## Project overviews
